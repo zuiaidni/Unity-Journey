@@ -1,2 +1,2 @@
 # Unity-Journey
-**This repository is where I document my personal Unity learning experience, from beginner to advanced topics. I'll be sharing resources, lessons learned, and the projects I work on, so others can follow along and learn with me.**
+This repository is a record of my Unity learning journey. It primarily consists of the following **eight** sections: CS Courses, Unity Basics, Book-CS, Book-Unity, Game Design, Coding with Unity, Mathematics in Games, and Physics in Games.
